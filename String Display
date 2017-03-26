@@ -1,10 +1,10 @@
 class newclass
 {
-public static void main(String args[])
-{
-
-System.out.println("This is Rushikesh....!!!\nThis is my first code for java");
-
-}//main
-
+    public static void main(String args[])
+  {
+    String name="Hello Rushikesh";  //declaration of String
+    Integer i=100;                  //declaration of Integer type variable
+    System.out.println("This is Rushikesh....!!!\nThis is my first code for java");
+    System.out.println("Showing Data:\nName:"+name+"value of i:"+i);
+  }//main
 }//class
