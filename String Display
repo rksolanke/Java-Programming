@@ -1,0 +1,10 @@
+class newclass
+{
+public static void main(String args[])
+{
+
+System.out.println("This is Rushikesh....!!!\nThis is my first code for java");
+
+}//main
+
+}//class
